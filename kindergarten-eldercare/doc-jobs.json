@@ -1,0 +1,32 @@
+[
+  {
+    "id": "moe_2025",
+    "url": "https://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+    "find": ["23.19万所", "3225.52万人"],
+    "off": 120
+  },
+  {
+    "id": "yicai_dependency",
+    "url": "https://www.yicai.com/news/103408153.html",
+    "find": ["23.1%", "22%"],
+    "off": 120
+  },
+  {
+    "id": "iqilu_jinan",
+    "url": "https://news.iqilu.com/yangmei/20260824/5938577.shtml",
+    "find": ["40余张", "无障碍浴室", "养老院负责人"],
+    "off": 120
+  },
+  {
+    "id": "jcrb_su",
+    "url": "https://www.jcrb.com/livenews/2026/202610/t20261026_1039212.html",
+    "find": ["每人每月支付700元", "送自己去养老院居住", "定期探望"],
+    "off": 120
+  },
+  {
+    "id": "cz_first",
+    "url": "https://cznews.cz001.com.cn/article/387981",
+    "find": ["首个公办幼儿园闲置校舍", "7月30日"],
+    "off": 120
+  }
+]

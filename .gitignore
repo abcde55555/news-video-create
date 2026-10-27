@@ -1,0 +1,36 @@
+# Keep this repository focused on the archived video project.
+/*
+!/.gitignore
+!/README.md
+!/kindergarten-eldercare/
+!/审阅/
+
+# Video deliverables stay local and must never enter GitHub.
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+
+# The review folder contains only the archived deliverables.
+/审阅/*
+!/审阅/09_幼儿园改养老院/
+/审阅/09_幼儿园改养老院/01_*
+/审阅/09_幼儿园改养老院/02_*
+/审阅/09_幼儿园改养老院/03_*
+/审阅/09_幼儿园改养老院/04_*
+/审阅/09_幼儿园改养老院/旧_*
+
+# Large source footage and generated frame sequences are reproducible inputs.
+/kindergarten-eldercare/source/
+/kindergarten-eldercare/assets/clips/
+
+# Render intermediates and duplicated deliverables stay outside Git.
+/kindergarten-eldercare/out/
+/kindergarten-eldercare/mix_master.wav
+
+# Keep voice metadata and the approved preview, not every generated take.
+/kindergarten-eldercare/voice/*.wav
+/kindergarten-eldercare/voice/*.edge.mp3
+/kindergarten-eldercare/voice/candidates/
+/kindergarten-eldercare/voice/preview74/

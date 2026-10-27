@@ -1,0 +1,7 @@
+{
+  "name": "kindergarten-eldercare-film",
+  "private": true,
+  "scripts": {
+    "dev": "node render_file.mjs --dir . --video --h 1080 --workers 6"
+  }
+}

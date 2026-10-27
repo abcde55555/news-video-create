@@ -1,0 +1,14 @@
+{
+  "out": "assets/clips",
+  "clips": {
+    "aerial": ["source/iqilu_kindergarten_main.mp4", 1.2, 2.1],
+    "courtyard_back": ["source/iqilu_kindergarten_main.mp4", 16.6, 2.5],
+    "empty_beds": ["source/iqilu_kindergarten_main.mp4", 76.4, 1.9, {"zoom": 1.45, "ax": 0.35, "ay": 0.5}],
+    "retrofit_room": ["source/iqilu_kindergarten_main.mp4", 77.2, 2.5],
+    "empty_corridor": ["source/iqilu_kindergarten_main.mp4", 88.4, 2.0],
+    "handrail": ["source/iqilu_kindergarten_main.mp4", 92.4, 2.1],
+    "fire_equipment": ["source/iqilu_kindergarten_main.mp4", 96.4, 2.0],
+    "empty_playground": ["source/iqilu_kindergarten_55s.mp4", 22.4, 2.0],
+    "signage": ["source/iqilu_kindergarten_55s.mp4", 48.4, 1.7]
+  }
+}

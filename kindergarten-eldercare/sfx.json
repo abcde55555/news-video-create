@@ -1,0 +1,33 @@
+{
+  "dir": "assets/sfx",
+  "bed": {
+    "file": "../audio/street-museum-cc0.mp3",
+    "gain": -24,
+    "from_pre": true
+  },
+  "events": [
+    {"file": "impact_low.wav", "at": ["s01", "幼儿园"], "shift": -0.06, "peak": -18, "len": 1.3},
+    {"file": "whoosh_soft.wav", "at": ["s02", "而是"], "shift": -0.16, "peak": -26, "len": 0.9},
+    {"file": "whoosh_soft.wav", "at": ["s02", "。"], "shift": 0.03, "peak": -27, "len": 1.0},
+    {"file": "impact_low.wav", "at": ["s03", "23.1"], "shift": -0.03, "peak": -16, "len": 1.2},
+    {"file": "whoosh_soft.wav", "at": ["s04", "改"], "shift": -0.16, "peak": -26, "len": 0.8},
+    {"file": "whoosh_soft.wav", "at": ["s05", "常州"], "shift": -0.18, "peak": -26, "len": 0.9},
+    {"file": "tick.wav", "at": ["s05", "济南"], "peak": -27, "len": 0.12},
+    {"file": "whoosh_soft.wav", "at": ["s06", "消防"], "shift": -0.16, "peak": -26, "len": 0.8},
+    {"file": "tick.wav", "at": ["s06", "无障碍"], "peak": -28, "len": 0.12},
+    {"file": "tick.wav", "at": ["s06", "送餐"], "peak": -28, "len": 0.12},
+    {"file": "whoosh_soft.wav", "at": ["s06", "。"], "shift": 0.03, "peak": -27, "len": 1.0},
+    {"file": "impact_low.wav", "at": ["s07", "护理"], "shift": -0.04, "peak": -17, "len": 1.2},
+    {"file": "tick.wav", "at": ["s07", "原园长"], "peak": -27, "len": 0.12},
+    {"file": "tick.wav", "at": ["s07", "年轻人"], "peak": -27, "len": 0.12},
+    {"file": "rise.wav", "at": ["s07", "但这只是补充"], "shift": -0.1, "peak": -30, "len": 1.2},
+    {"file": "impact_low.wav", "at": ["s08", "90"], "shift": -0.04, "peak": -17, "len": 1.2},
+    {"file": "tick.wav", "at": ["s08", "6个"], "peak": -27, "len": 0.12},
+    {"file": "tick.wav", "at": ["s08", "700"], "peak": -26, "len": 0.12},
+    {"file": "impact_low.wav", "at": ["s09", "空间"], "shift": -0.03, "peak": -17, "len": 1.0},
+    {"file": "tick.wav", "at": ["s09", "照护"], "peak": -27, "len": 0.12},
+    {"file": "impact_low.wav", "at": ["s09", "老人怎么选"], "shift": -0.03, "peak": -16, "len": 1.2},
+    {"file": "impact_low.wav", "at": ["s10", "不是答案"], "shift": -0.03, "peak": -16, "len": 1.3},
+    {"file": "impact_low.wav", "at": ["s10", "第一步"], "shift": -0.03, "peak": -17, "len": 1.3}
+  ]
+}
